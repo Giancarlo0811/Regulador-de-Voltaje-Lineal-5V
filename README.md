@@ -12,6 +12,7 @@ Circuito regulador de voltaje de 5V con el regulador lineal LM2940.
 - 2 capacitores cerámicos de 100nF
 - LED
 - Conector de 3 pines
+- Placa PCB de prototipo (baquelita perforada)
 
 ## Esquemático
 
