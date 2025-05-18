@@ -1,7 +1,7 @@
 # Regulador-de-Voltaje-Lineal-5V
-Circuito regulador de voltaje de 5V con el regulador lineal LM2940.
+Circuito regulador de 5V con el regulador lineal LM2940.
 
-## Componentes
+## 🛠️ Componentes
 
 ![alt text](./Imagenes/Componentes.jpg)
 
@@ -14,8 +14,8 @@ Circuito regulador de voltaje de 5V con el regulador lineal LM2940.
 - Conector de 3 pines
 - Placa PCB de prototipo (baquelita perforada)
 
-## Esquemático
+## 📸 Esquemático + Circuito
 
 ![alt text](./Imagenes/Esquematico.PNG)
 
-## PCB
+## Seccion de Pruebas ?
