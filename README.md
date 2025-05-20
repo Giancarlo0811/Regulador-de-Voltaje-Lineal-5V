@@ -3,8 +3,6 @@ Circuito regulador de 5V con el regulador lineal LM2940.
 
 ## 🛠️ Componentes
 
-![alt text](./Imagenes/Componentes.jpg)
-
 - Regulador LM2940
 - Diodo Schottky 1N5819
 - Resistencia de 1K
