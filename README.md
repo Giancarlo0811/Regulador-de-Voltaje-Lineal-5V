@@ -18,4 +18,10 @@ Circuito regulador de 5V con el regulador lineal LM2940.
 
 ![alt text](./Imagenes/Esquematico.PNG)
 
-## Seccion de Pruebas ?
+## 📊 Pruebas y Resultados
+
+### 💻 Simulación 
+Resultados en Proteus
+
+### 🔌 Circuito físico
+Mediciones con multímetro y osciloscopio. 
