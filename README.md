@@ -2,6 +2,7 @@
 Circuito regulador de 5V con el regulador lineal LM2940.
 
 Voltaje de entrada: 7-35V
+
 Voltaje de salida: 5V
 
 ## 🛠️ Componentes
