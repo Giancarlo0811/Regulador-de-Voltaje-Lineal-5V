@@ -36,8 +36,8 @@ Pruebas con diferentes voltajes de entrada usando [Mini Osciloscopio](https://gi
 
 ![alt text](./Imagenes/Montaje-test.jpeg)
 
-- Channel 1 (cable naranja): Voltaje regulado 
-- Channel 2 (cable morado): Voltaje de entrada
+- CH1 (cable naranja): Voltaje regulado 
+- CH2 (cable morado): Voltaje de entrada
 
 - #### Voltaje de entrada 8V DC (🎬 [Video](https://youtu.be/low_0nrt3PA))
 
