@@ -41,8 +41,8 @@ Pruebas con diferentes voltajes de entrada usando [Mini Osciloscopio](https://gi
 
 - #### Voltaje de entrada 8V DC (🎬 [Video](https://youtu.be/low_0nrt3PA))
 
-- CH1 (verde)
-- CH2 (rojo)
+    - CH1 (verde)
+    - CH2 (rojo)
 
 ![alt text](./Imagenes/Test-8V.PNG)
 
@@ -50,8 +50,8 @@ Pruebas con diferentes voltajes de entrada usando [Mini Osciloscopio](https://gi
 
 - #### Voltaje de entrada 10V DC
 
-- CH1 (verde)
-- CH2 (rojo)
+    - CH1 (verde)
+    - CH2 (rojo)
 
 ![alt text](./Imagenes/Test-10V.PNG)
 
@@ -59,8 +59,8 @@ Pruebas con diferentes voltajes de entrada usando [Mini Osciloscopio](https://gi
 
 - #### Voltaje de entrada 15V DC
 
-- CH1 (verde)
-- CH2 (rojo)
+    - CH1 (verde)
+    - CH2 (rojo)
 
 ![alt text](./Imagenes/Test-15V.PNG)
 
